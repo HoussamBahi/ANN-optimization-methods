@@ -66,3 +66,23 @@ network weight initialization
 activation functions
 
 dropout regularization and weight constraint
+
+### Results summary
+
+<img src="https://user-images.githubusercontent.com/119765748/206353250-1ceae98d-6f71-439c-a699-e90aeb641484.JPG">
+
+<img src="https://user-images.githubusercontent.com/119765748/206353254-74a33eb5-21a7-483b-9233-d12b2f06312f.JPG">
+
+<img src="https://user-images.githubusercontent.com/119765748/206353255-9070686f-9447-4e4b-874f-6ebf75add859.JPG">
+
+<img src="https://user-images.githubusercontent.com/119765748/206353258-c266d980-345e-4a81-9d63-df018a92fde7.JPG">
+
+<img src="https://user-images.githubusercontent.com/119765748/206353260-a29c5c5d-cb38-4eb4-9f0d-2560a327e11c.JPG">
+
+<img src="https://user-images.githubusercontent.com/119765748/206353242-b678cc44-1c74-4206-8e68-59fc771b891c.JPG">
+
+
+
+
+
+
