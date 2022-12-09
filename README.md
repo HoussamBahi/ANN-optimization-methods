@@ -28,7 +28,8 @@ method based on the optimization history and other factors can be very critical,
 from the work conducted on the thesis I highly recommend Optuna as the first choice 
 in this case
 
-Details can be found here.
+More details will be added.
+This case study is of great importance and it contains many sub-problems that to the best of my knowledge not addressed.
 
 
 
